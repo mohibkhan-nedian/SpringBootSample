@@ -54,4 +54,3 @@ Response body example:
 3 -> false
 4 -> false
 ```
-* Submit this for review in GitLab
